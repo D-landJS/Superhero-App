@@ -1,6 +1,6 @@
 # BMI-App
 
-It's a minimalist BMI calculator app developed using Kotlin and XML, implementing fundamental Kotlin concepts such as constants, view binding, handling user interactions, screen navigation, and color management.
+It's a minimalist SuperHero app developed using Kotlin and XML, implementing fundamental Kotlin concepts such as constants, view binding, handling user interactions and using services like Retrofit.
 
 ---
 
